@@ -1,0 +1,652 @@
+[
+     {
+          "State": "Alabama",
+          "Peak": "Cheaha Mountain",
+          "Height": {
+            "Feet": "2,407",
+            "Meters": "734"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "332908N",
+          "Longitude": "0854833W",
+          "Difficulty Rank": "46"
+     },
+     {
+          "State": "Alaska",
+          "Peak": "Denali",
+          "Height": {
+            "Feet": "20,320",
+            "Meters": "6,194"
+          },
+          "Vertical Climb": "24,500",
+          "RT Mileage": "46",
+          "Latitude": "630410N",
+          "Longitude": "1510013W",
+          "Difficulty Rank": "1"
+     },
+     {
+          "State": "Arizona",
+          "Peak": "Humphreys Peak",
+          "Height": {
+            "Feet": "12,633",
+            "Meters": "3,851"
+          },
+          "Vertical Climb": "3,500",
+          "RT Mileage": "9",
+          "Latitude": "352047N",
+          "Longitude": "1114040W",
+          "Difficulty Rank": "10"
+     },
+     {
+          "State": "Arkansas",
+          "Peak": "Mount Magazine (Signal Hill)",
+          "Height": {
+            "Feet": "2,753",
+            "Meters": "839"
+          },
+          "Vertical Climb": "225",
+          "RT Mileage": "1",
+          "Latitude": "351002N",
+          "Longitude": "0933841W",
+          "Difficulty Rank": "28"
+     },
+     {
+          "State": "California",
+          "Peak": "Mount Whitney",
+          "Height": {
+            "Feet": "14,494",
+            "Meters": "4,418"
+          },
+          "Vertical Climb": "6,750",
+          "RT Mileage": "21.4",
+          "Latitude": "363445N",
+          "Longitude": "1181730W",
+          "Difficulty Rank": "8"
+     },
+     {
+          "State": "Colorado",
+          "Peak": "Mount Elbert",
+          "Height": {
+            "Feet": "14,433",
+            "Meters": "4,399"
+          },
+          "Vertical Climb": "5,000",
+          "RT Mileage": "9",
+          "Latitude": "390704N",
+          "Longitude": "1062641W",
+          "Difficulty Rank": "9"
+     },
+     {
+          "State": "Connecticut",
+          "Peak": "Mount Frissell (South Slope)",
+          "Height": {
+            "Feet": "2,380",
+            "Meters": "725"
+          },
+          "Vertical Climb": "450",
+          "RT Mileage": "3.6",
+          "Latitude": "420304N",
+          "Longitude": "0732857W",
+          "Difficulty Rank": "20"
+     },
+     {
+          "State": "Delaware",
+          "Peak": "Ebright Azimuth",
+          "Height": {
+            "Feet": "448",
+            "Meters": "137"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "395012N",
+          "Longitude": "0753143W",
+          "Difficulty Rank": "49"
+     },
+     {
+          "State": "Florida",
+          "Peak": "Lakewood (Britton Hill)",
+          "Height": {
+            "Feet": "345",
+            "Meters": "105"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "305918N",
+          "Longitude": "0861655W",
+          "Difficulty Rank": "50"
+     },
+     {
+          "State": "Georgia",
+          "Peak": "Brasstown Bald",
+          "Height": {
+            "Feet": "4,784",
+            "Meters": "1,458"
+          },
+          "Vertical Climb": "400",
+          "RT Mileage": "1",
+          "Latitude": "345220N",
+          "Longitude": "0834836W",
+          "Difficulty Rank": "26"
+     },
+     {
+          "State": "Hawaii",
+          "Peak": "Mauna Kea",
+          "Height": {
+            "Feet": "13,796",
+            "Meters": "4,205"
+          },
+          "Vertical Climb": "230",
+          "RT Mileage": "0.4",
+          "Latitude": "194842N",
+          "Longitude": "1552815W",
+          "Difficulty Rank": "30"
+     },
+     {
+          "State": "Idaho",
+          "Peak": "Borah Peak",
+          "Height": {
+            "Feet": "12,662",
+            "Meters": "3,859"
+          },
+          "Vertical Climb": "5,550",
+          "RT Mileage": "6.8",
+          "Latitude": "440814N",
+          "Longitude": "1134646W",
+          "Difficulty Rank": "6"
+     },
+     {
+          "State": "Illinois",
+          "Peak": "Charles Mound",
+          "Height": {
+            "Feet": "1,235",
+            "Meters": "376"
+          },
+          "Vertical Climb": "75",
+          "RT Mileage": "0.4",
+          "Latitude": "423015N",
+          "Longitude": "0901424W",
+          "Difficulty Rank": "32"
+     },
+     {
+          "State": "Indiana",
+          "Peak": "Hoosier Hill",
+          "Height": {
+            "Feet": "1,257",
+            "Meters": "383"
+          },
+          "Vertical Climb": "20",
+          "RT Mileage": "0.1",
+          "Latitude": "400001N",
+          "Longitude": "0845105W",
+          "Difficulty Rank": "40"
+     },
+     {
+          "State": "Iowa",
+          "Peak": "Hawkeye Point",
+          "Height": {
+            "Feet": "1,670",
+            "Meters": "509"
+          },
+          "Vertical Climb": "10",
+          "RT Mileage": "0.1",
+          "Latitude": "432754N",
+          "Longitude": "0954231W",
+          "Difficulty Rank": "41"
+     },
+     {
+          "State": "Kansas",
+          "Peak": "Mount Sunflower",
+          "Height": {
+            "Feet": "4,039",
+            "Meters": "1,231"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "390119N",
+          "Longitude": "1020212W",
+          "Difficulty Rank": "44"
+     },
+     {
+          "State": "Kentucky",
+          "Peak": "Black Mountain",
+          "Height": {
+            "Feet": "4,145",
+            "Meters": "1,263"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0.1",
+          "Latitude": "365451N",
+          "Longitude": "0825338W",
+          "Difficulty Rank": "42"
+     },
+     {
+          "State": "Louisiana",
+          "Peak": "Driskill Mountain",
+          "Height": {
+            "Feet": "535",
+            "Meters": "163"
+          },
+          "Vertical Climb": "150",
+          "RT Mileage": "1.8",
+          "Latitude": "322528N",
+          "Longitude": "0925350W",
+          "Difficulty Rank": "25"
+     },
+     {
+          "State": "Maine",
+          "Peak": "Katahdin (Baxter Peak)",
+          "Height": {
+            "Feet": "5,267",
+            "Meters": "1,605"
+          },
+          "Vertical Climb": "4,200",
+          "RT Mileage": "10.4",
+          "Latitude": "455415N",
+          "Longitude": "0685522W",
+          "Difficulty Rank": "15"
+     },
+     {
+          "State": "Maryland",
+          "Peak": "Backbone Mountain",
+          "Height": {
+            "Feet": "3,360",
+            "Meters": "1,024"
+          },
+          "Vertical Climb": "750",
+          "RT Mileage": "2.2",
+          "Latitude": "391442N",
+          "Longitude": "0792930W",
+          "Difficulty Rank": "22"
+     },
+     {
+          "State": "Massachusetts",
+          "Peak": "Mount Greylock",
+          "Height": {
+            "Feet": "3,491",
+            "Meters": "1,064"
+          },
+          "Vertical Climb": "20",
+          "RT Mileage": "0.1",
+          "Latitude": "423815N",
+          "Longitude": "0731000W",
+          "Difficulty Rank": "39"
+     },
+     {
+          "State": "Michigan",
+          "Peak": "Mount Arvon",
+          "Height": {
+            "Feet": "1,979",
+            "Meters": "603"
+          },
+          "Vertical Climb": "300",
+          "RT Mileage": "2",
+          "Latitude": "464520N",
+          "Longitude": "0880921W",
+          "Difficulty Rank": "24"
+     },
+     {
+          "State": "Minnesota",
+          "Peak": "Eagle Mountain",
+          "Height": {
+            "Feet": "2,301",
+            "Meters": "701"
+          },
+          "Vertical Climb": "600",
+          "RT Mileage": "7",
+          "Latitude": "475351N",
+          "Longitude": "0903336W",
+          "Difficulty Rank": "18"
+     },
+     {
+          "State": "Mississippi",
+          "Peak": "Woodall Mountain",
+          "Height": {
+            "Feet": "806",
+            "Meters": "246"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "344716N",
+          "Longitude": "0881430W",
+          "Difficulty Rank": "48"
+     },
+     {
+          "State": "Missouri",
+          "Peak": "Taum Sauk",
+          "Height": {
+            "Feet": "1,772",
+            "Meters": "540"
+          },
+          "Vertical Climb": "30",
+          "RT Mileage": "0.4",
+          "Latitude": "373413N",
+          "Longitude": "0904340W",
+          "Difficulty Rank": "33"
+     },
+     {
+          "State": "Montana",
+          "Peak": "Granite Peak",
+          "Height": {
+            "Feet": "12,799",
+            "Meters": "3,901"
+          },
+          "Vertical Climb": "7,700",
+          "RT Mileage": "22.2",
+          "Latitude": "450948N",
+          "Longitude": "1094826W",
+          "Difficulty Rank": "3"
+     },
+     {
+          "State": "Nebraska",
+          "Peak": "Panorama Point",
+          "Height": {
+            "Feet": "5,424",
+            "Meters": "1,653"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "410400N",
+          "Longitude": "1040118W",
+          "Difficulty Rank": "43"
+     },
+     {
+          "State": "Nevada",
+          "Peak": "Boundary Peak",
+          "Height": {
+            "Feet": "13,143",
+            "Meters": "4,006"
+          },
+          "Vertical Climb": "4,400",
+          "RT Mileage": "7.4",
+          "Latitude": "375046N",
+          "Longitude": "1182100W",
+          "Difficulty Rank": "11"
+     },
+     {
+          "State": "New Hampshire",
+          "Peak": "Mount Washington",
+          "Height": {
+            "Feet": "6,288",
+            "Meters": "1,917"
+          },
+          "Vertical Climb": "20",
+          "RT Mileage": "0.1",
+          "Latitude": "441614N",
+          "Longitude": "0711817W",
+          "Difficulty Rank": "38"
+     },
+     {
+          "State": "New Jersey",
+          "Peak": "High Point",
+          "Height": {
+            "Feet": "1,803",
+            "Meters": "550"
+          },
+          "Vertical Climb": "40",
+          "RT Mileage": "0.2",
+          "Latitude": "411914N",
+          "Longitude": "0743943W",
+          "Difficulty Rank": "36"
+     },
+     {
+          "State": "New Mexico",
+          "Peak": "Wheeler Peak",
+          "Height": {
+            "Feet": "13,161",
+            "Meters": "4,011"
+          },
+          "Vertical Climb": "3,250",
+          "RT Mileage": "6.2",
+          "Latitude": "363324N",
+          "Longitude": "1052459W",
+          "Difficulty Rank": "12"
+     },
+     {
+          "State": "New York",
+          "Peak": "Mount Marcy",
+          "Height": {
+            "Feet": "5,344",
+            "Meters": "1,629"
+          },
+          "Vertical Climb": "3,200",
+          "RT Mileage": "14.8",
+          "Latitude": "440645N",
+          "Longitude": "0735526W",
+          "Difficulty Rank": "14"
+     },
+     {
+          "State": "North Carolina",
+          "Peak": "Mount Mitchell",
+          "Height": {
+            "Feet": "6,684",
+            "Meters": "2,037"
+          },
+          "Vertical Climb": "100",
+          "RT Mileage": "0.2",
+          "Latitude": "354553N",
+          "Longitude": "0821555W",
+          "Difficulty Rank": "35"
+     },
+     {
+          "State": "North Dakota",
+          "Peak": "White Butte",
+          "Height": {
+            "Feet": "3,506",
+            "Meters": "1,069"
+          },
+          "Vertical Climb": "400",
+          "RT Mileage": "2",
+          "Latitude": "462312N",
+          "Longitude": "1031807W",
+          "Difficulty Rank": "23"
+     },
+     {
+          "State": "Ohio",
+          "Peak": "Campbell Hill",
+          "Height": {
+            "Feet": "1,550",
+            "Meters": "472"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "402211N",
+          "Longitude": "0834314W",
+          "Difficulty Rank": "47"
+     },
+     {
+          "State": "Oklahoma",
+          "Peak": "Black Mesa",
+          "Height": {
+            "Feet": "4,973",
+            "Meters": "1,516"
+          },
+          "Vertical Climb": "775",
+          "RT Mileage": "8.6",
+          "Latitude": "365555N",
+          "Longitude": "1025950W",
+          "Difficulty Rank": "17"
+     },
+     {
+          "State": "Oregon",
+          "Peak": "Mount Hood",
+          "Height": {
+            "Feet": "11,239",
+            "Meters": "3,426"
+          },
+          "Vertical Climb": "5,300",
+          "RT Mileage": "8",
+          "Latitude": "452225N",
+          "Longitude": "1214133W",
+          "Difficulty Rank": "5"
+     },
+     {
+          "State": "Pennsylvania",
+          "Peak": "Mount Davis",
+          "Height": {
+            "Feet": "3,213",
+            "Meters": "979"
+          },
+          "Vertical Climb": "0",
+          "RT Mileage": "0",
+          "Latitude": "394710N",
+          "Longitude": "0791034W",
+          "Difficulty Rank": "45"
+     },
+     {
+          "State": "Rhode Island",
+          "Peak": "Jerimoth Hill",
+          "Height": {
+            "Feet": "812",
+            "Meters": "247"
+          },
+          "Vertical Climb": "25",
+          "RT Mileage": "0.6",
+          "Latitude": "415058N",
+          "Longitude": "0714645W",
+          "Difficulty Rank": "29"
+     },
+     {
+          "State": "South Carolina",
+          "Peak": "Sassafras Mountain",
+          "Height": {
+            "Feet": "3,560",
+            "Meters": "1,085"
+          },
+          "Vertical Climb": "30",
+          "RT Mileage": "0.2",
+          "Latitude": "350353N",
+          "Longitude": "0824639W",
+          "Difficulty Rank": "37"
+     },
+     {
+          "State": "South Dakota",
+          "Peak": "Harney Peak",
+          "Height": {
+            "Feet": "7,242",
+            "Meters": "2,207"
+          },
+          "Vertical Climb": "1,500",
+          "RT Mileage": "5.8",
+          "Latitude": "435158N",
+          "Longitude": "1033152W",
+          "Difficulty Rank": "19"
+     },
+     {
+          "State": "Tennessee",
+          "Peak": "Clingmans Dome",
+          "Height": {
+            "Feet": "6,643",
+            "Meters": "2,025"
+          },
+          "Vertical Climb": "330",
+          "RT Mileage": "1",
+          "Latitude": "353346N",
+          "Longitude": "0832955W",
+          "Difficulty Rank": "27"
+     },
+     {
+          "State": "Texas",
+          "Peak": "Guadalupe Peak",
+          "Height": {
+            "Feet": "8,749",
+            "Meters": "2,667"
+          },
+          "Vertical Climb": "2,950",
+          "RT Mileage": "8.4",
+          "Latitude": "315328N",
+          "Longitude": "1045136W",
+          "Difficulty Rank": "13"
+     },
+     {
+          "State": "Utah",
+          "Peak": "Kings Peak",
+          "Height": {
+            "Feet": "13,528",
+            "Meters": "4,123"
+          },
+          "Vertical Climb": "5,350",
+          "RT Mileage": "28.8",
+          "Latitude": "404643N",
+          "Longitude": "1102228W",
+          "Difficulty Rank": "7"
+     },
+     {
+          "State": "Vermont",
+          "Peak": "Mount Mansfield",
+          "Height": {
+            "Feet": "4,393",
+            "Meters": "1,339"
+          },
+          "Vertical Climb": "550",
+          "RT Mileage": "2.8",
+          "Latitude": "443237N",
+          "Longitude": "0724853W",
+          "Difficulty Rank": "21"
+     },
+     {
+          "State": "Virginia",
+          "Peak": "Mount Rogers",
+          "Height": {
+            "Feet": "5,729",
+            "Meters": "1,746"
+          },
+          "Vertical Climb": "1,500",
+          "RT Mileage": "8.6",
+          "Latitude": "363935N",
+          "Longitude": "0813241W",
+          "Difficulty Rank": "16"
+     },
+     {
+          "State": "Washington",
+          "Peak": "Mount Rainier (Columbia Crest)",
+          "Height": {
+            "Feet": "14,411",
+            "Meters": "4,392"
+          },
+          "Vertical Climb": "9,100",
+          "RT Mileage": "16",
+          "Latitude": "465110N",
+          "Longitude": "1214531W",
+          "Difficulty Rank": "4"
+     },
+     {
+          "State": "West Virginia",
+          "Peak": "Spruce Knob",
+          "Height": {
+            "Feet": "4,863",
+            "Meters": "1,482"
+          },
+          "Vertical Climb": "20",
+          "RT Mileage": "0.4",
+          "Latitude": "384159N",
+          "Longitude": "0793159W",
+          "Difficulty Rank": "34"
+     },
+     {
+          "State": "Wisconsin",
+          "Peak": "Timms Hill",
+          "Height": {
+            "Feet": "1,951",
+            "Meters": "595"
+          },
+          "Vertical Climb": "130",
+          "RT Mileage": "0.4",
+          "Latitude": "452704N",
+          "Longitude": "0901142W",
+          "Difficulty Rank": "31"
+     },
+     {
+          "State": "Wyoming",
+          "Peak": "Gannett Peak",
+          "Height": {
+            "Feet": "13,804",
+            "Meters": "4,207"
+          },
+          "Vertical Climb": "8,650",
+          "RT Mileage": "40.4",
+          "Latitude": "431104N",
+          "Longitude": "1093912W",
+          "Difficulty Rank": "2"
+     }
+]
