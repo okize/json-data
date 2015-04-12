@@ -1,0 +1,104 @@
+{
+	"beaufortNumber": "0",
+	"description": "Calm",
+	"windSpeed": {
+		"mph": "< 1"
+	},
+	"conditions": "Calm; Smoke rises vertically.",
+},
+{
+	"beaufortNumber": "1",
+	"description": "Light air",
+	"windSpeed": {
+		"mph": "1-3"
+	},
+	"conditions": "Direction of wind shown by smoke drift not by wind vanes.",
+},
+{
+	"beaufortNumber": "2",
+	"description": "Light breeze",
+	"windSpeed": {
+		"mph": "4-7"
+	},
+	"conditions": "Wind felt on face; Leaves rustle; Vanes moved by the wind.",
+},
+{
+	"beaufortNumber": "3",
+	"description": "Gentle breeze",
+	"windSpeed": {
+		"mph": "8-12"
+	},
+	"conditions": "Leaves and small twigs in constant motion; Wind extends light flag.",
+},
+{
+	"beaufortNumber": "4",
+	"description": "Moderate breeze",
+	"windSpeed": {
+		"mph": "13-18"
+	},
+	"conditions": "Raises dust, loose paper; Small branches moved.",
+},
+{
+	"beaufortNumber": "5",
+	"description": "Fresh breeze",
+	"windSpeed": {
+		"mph": "19-24"
+	},
+	"conditions": "Small trees in leaf begin to sway; Crested wavelets form on inland waters.",
+},
+{
+	"beaufortNumber": "6",
+	"description": "Strong breeze",
+	"windSpeed": {
+		"mph": "25-31"
+	},
+	"conditions": "Large branches in motion; Whistling heard in telegraph wires; Umbrellas used with difficulty.",
+},
+{
+	"beaufortNumber": "7",
+	"description": "Near gale",
+	"windSpeed": {
+		"mph": "32-38"
+	},
+	"conditions": "Whole trees in motion; Inconvenience felt walking against the wind.",
+},
+{
+	"beaufortNumber": "8",
+	"description": "Gale",
+	"windSpeed": {
+		"mph": "39-46"
+	},
+	"conditions": "Breaks twigs off trees; Impedes progress.",
+},
+{
+	"beaufortNumber": "9",
+	"description": "Strong gale",
+	"windSpeed": {
+		"mph": "47-54"
+	},
+	"conditions": "Slight structural damage occurs.",
+},
+{
+	"beaufortNumber": "10",
+	"description": "Storm",
+	"windSpeed": {
+		"mph": "55-63"
+	},
+	"conditions": "Trees uprooted; Considerable damage occurs.",
+},
+{
+	"beaufortNumber": "11",
+	"description": "Violent storm",
+	"windSpeed": {
+		"mph": "64-72"
+	},
+	"conditions": "Widespread damage.",
+},
+{
+	"beaufortNumber": "12",
+	"description": "Hurricane",
+	"windSpeed": {
+		"mph": "73-82"
+	},
+	"conditions": "Widespread damage.",
+}
